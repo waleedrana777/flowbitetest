@@ -1,0 +1,4 @@
+.todos > div:nth-child(odd) {
+	background-color: #f7f7f7;
+	
+}
